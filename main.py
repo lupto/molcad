@@ -94,11 +94,14 @@ def element_correction(element):
 	elif (element.lower() == 'sulfur') or (element.lower() == 's'):
 		output = 'S'
 	# Phosphorus
-	elif (element.lower() == 'Phosphorus') or (element.lower == 'p')
+	elif (element.lower() == 'phosphorus') or (element.lower() == 'p'):
 		output = 'P'
 	# Oxygen
-	elif (element.lower() == 'Oxygen') or (element.lower() == 'o'):
+	elif (element.lower() == 'oxygen') or (element.lower() == 'o'):
 		output = 'O'
+	# Hydrogen
+	elif (element.lower() == 'hydrogen') or (element.lower() == 'h'):
+		output = 'H'
 	else:
 		output = element   # This could lead to an error if somebody 
 							# puts in around a 3 character long element name
