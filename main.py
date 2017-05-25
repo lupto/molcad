@@ -183,6 +183,7 @@ def write_atoms_from_csv():
 	    
 	csv_fid.close()
 	close_files()
+	make_new_PDB = 0
 		
 	
 	

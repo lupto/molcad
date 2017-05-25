@@ -1,0 +1,18 @@
+HEADER    trial24    
+TITLE    trial24    
+REMARK    Made    with    PDB    File    Editor    
+REMARK    2017    Choi    Lab,    Purdue    University    
+ORIGX1    1.000000    0.000000    0.000000    0.00000    
+ORIGX2    0.000000    1.000000    0.000000    0.00000    
+ORIGX3    0.000000    0.000000    1.000000    0.00000    
+SCALE1    0.010163    0.000000    0.006427    0.00000    
+SCALE2    0.000000    0.015002    0.000000    0.00000    
+SCALE3    0.000000    0.000000    0.015381    0.00000    
+ATOM      2    C GLU A   61          1       0       0     1 56.14           C 
+ATOM      2    C GLU A   61          0       1       0     1 56.14           C 
+ATOM      3    C GLU A   61          0       0       1     1 56.14           C 
+ATOM      4    C GLU A   61          1       1       1     1 56.14           C 
+ATOM      5    C GLU A   61          0       1       1     1 56.14           C 
+ATOM      6    C GLU A   61          1       1       0     1 56.14           C 
+MASTER    336    0    1    9    10    0    1    6    2822    4    4    24    
+END    
